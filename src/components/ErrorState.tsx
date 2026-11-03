@@ -7,3 +7,4 @@ export function ErrorState({ message }: { message: string }) {
     </Alert>
   );
 }
+
